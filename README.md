@@ -1,4 +1,4 @@
-# Awesome-coincidences-between-two-papers
+# awesome-coincidences-between-two-papers
 
 It was recently brought to our awareness that a survey paper ***Self-supervised Learning on Graphs: Contrastive, Generative,or Predictive*** by Lirong Wu et al., published in *IEEE Transactions on Knowledge and Data Engineering*, shares a very high similarity to our paper ***Self-supervised learning of graph neural networks: A unified review*** published in *IEEE Transactions on Pattern Analysis and Machine Intelligence*. 
 
