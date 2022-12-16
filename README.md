@@ -17,38 +17,38 @@ We compare several similar elements in terms of figures and text in the followin
 
 ### Text
 
-- Identical statements between the captions.
+- Identical statements between the captions. 
 ![caption-fig2](figures/caption-fig2.png)
 
-- Identical/similar statements and formulations.
+- Identical/similar statements and formulations. To the best of our knowledge, we are the first to summarize and formulate the taxonomy on paradigms of using SSL, which is not widely used before.
 ![section-2-4](figures/section-2-4.png)
 
-- Identical/similar statements and formulations.
+- Identical/similar statements and formulations. To the best of our knowledge, we are the first to unify existing contrastive approaches, by identifying their connections among each other.
 ![section-3-1](figures/section-3-1.png)
 
 - Identical/similar statements and formulations.
 ![section-3-2-1](figures/section-3-2-1.png)
 
-- Identical/similar statements and formulations.
+- Identical/similar statements and formulations. To the best of our knowledge, we are the first to use these formulations to summarize and categorize agumentations for graphs.
 ![section-3-2-2](figures/section-3-2-2.png)
 
 - Identical/similar statements and formulations.
 ![section-3-2-3](figures/section-3-2-3.png)
 
-- Identical/similar statements.
+- Identical/similar statements. To the best of our knowledge, we are the first to consider projection heads from a parameterized MI estimator perspective of view.
 ![section-3-4-d](figures/section-3-4-d.png)
 
-- Identical/similar statements and formulations.
+- Identical/similar statements and formulations. To the best of our knowledge, we are the first to summarize the equivalences or connections among contrastive objectives.
 ![section-3-4-j](figures/section-3-4-j.png)
 
-- Identical/similar statements and formulations.
+- Identical/similar statements and formulations. To the best of our knowledge, we are the first to summarize the equivalences or connections among contrastive objectives.
 ![section-3-4-t](figures/section-3-4-t.png)
 
 - Identical/similar statements.
 ![section-4-2](figures/section-4-2.png)
 
 - Identical/similar statements.
-![section-4&5](sfigures/ection-4&5.png)
+![section-4&5](figures/section-4&5.png)
 
 - Identical/similar statements.
 ![section-6](figures/section-6.png)
