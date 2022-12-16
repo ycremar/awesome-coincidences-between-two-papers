@@ -2,7 +2,7 @@
 
 It was recently brought to our awareness that a survey paper ***Self-supervised Learning on Graphs: Contrastive, Generative,or Predictive*** by Lirong Wu et al., published in *IEEE Transactions on Knowledge and Data Engineering*, shares a very high similarity to our paper ***Self-supervised learning of graph neural networks: A unified review*** published in *IEEE Transactions on Pattern Analysis and Machine Intelligence*. 
 
-Although it is very possible that two survey papers on a same topic can share similar formulations and method descriptions, we are surprised that our **method taxonomy**, **paper organizations/storylines**, **figures**, **unified frameworks**, and many other **unique insights** to the topic also appear in their paper. Given the similarity in many individual dimensions of the two papers, we believe that the likelihood that the two papers are from a joint distribution is significantly higher than that they are independently from mariginal distributions. 
+Although it is very possible that two survey papers on a same topic can share some similar formulations and method descriptions, we are surprised that our **method taxonomy**, **paper organizations/storylines**, **figures**, **unified frameworks**, and many other **unique insights** to the topic also appear in their paper. Given the similarity in many individual dimensions of the two papers, we believe that the likelihood that the two papers are from a joint distribution is significantly higher than that they are independently from mariginal distributions. 
 
 Below we summarize the timeline and provide a list of evidences about the similarity.
 
