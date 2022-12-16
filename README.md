@@ -4,13 +4,13 @@ It was recently brought to our awareness that a survey paper ***Self-supervised 
 
 Although it is very possible that two survey papers on a same topic can share some similar formulations and method descriptions, we are surprised that our **method taxonomy**, **paper organizations/storylines**, **figures**, **unified frameworks**, and many other **unique insights** to the topic also appear in their paper. Given the similarity in many individual dimensions of the two papers, we believe that the likelihood that the two papers are from a joint distribution is significantly higher than that they are independently from mariginal distributions. 
 
-Below we summarize the timeline and provide a list of evidences about the similarity.
+Below we summarize the timeline and provide a list of evidence about the similarity.
 
 ## Timeline
 
 On Febuary 22, 2021, the first version of our review paper was made available on [arXiv](https://arxiv.org/abs/2102.10757v1). **Three months later**, on May 16, 2021, the paper by Wu et al. became available on [arXiv](https://arxiv.org/abs/2105.07342v1). After that, the paper by Wu et al. and our paper was published on December 1, 2021 and April 27, 2022, respectively.
 
-## Evidences Exhibits
+## Evidence Exhibits
 
 We compare several similar elements in terms of figures and text in the following figures.
 
