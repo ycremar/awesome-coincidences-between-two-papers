@@ -18,47 +18,47 @@ We compare several similar elements in terms of figures and text in the followin
 ### Text
 
 - Identical statements between the captions.
-![caption-fig2](./caption-fig2.png)
+![caption-fig2](figures/caption-fig2.png)
 
 - Identical/similar statements and formulations.
-![section-2-4](section-2-4.png)
+![section-2-4](figures/section-2-4.png)
 
 - Identical/similar statements and formulations.
-![section-3-1](section-3-1.png)
+![section-3-1](figures/section-3-1.png)
 
 - Identical/similar statements and formulations.
-![section-3-2-1](section-3-2-1.png)
+![section-3-2-1](figures/section-3-2-1.png)
 
 - Identical/similar statements and formulations.
-![section-3-2-2](section-3-2-2.png)
+![section-3-2-2](figures/section-3-2-2.png)
 
 - Identical/similar statements and formulations.
-![section-3-2-3](section-3-2-3.png)
+![section-3-2-3](figures/section-3-2-3.png)
 
 - Identical/similar statements.
-![section-3-4-d](section-3-4-d.png)
+![section-3-4-d](figures/section-3-4-d.png)
 
 - Identical/similar statements and formulations.
-![section-3-4-j](section-3-4-j.png)
+![section-3-4-j](figures/section-3-4-j.png)
 
 - Identical/similar statements and formulations.
-![section-3-4-t](section-3-4-t.png)
+![section-3-4-t](figures/section-3-4-t.png)
 
 - Identical/similar statements.
-![section-4-2](section-4-2.png)
+![section-4-2](figures/section-4-2.png)
 
 - Identical/similar statements.
-![section-4&5](section-4&5.png)
+![section-4&5](sfigures/ection-4&5.png)
 
 - Identical/similar statements.
-![section-6](section-6.png)
+![section-6](figures/section-6.png)
 
 ### Figures
 
 - Identical/similar content in figures.
-![figure-2](figure-2.png)
+![figure-2](figures/figure-2.png)
 
 - Identical/similar content in figures.
-![figure-6](figure-6.png)
+![figure-6](figures/figure-6.png)
 
 
