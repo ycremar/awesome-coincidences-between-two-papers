@@ -12,7 +12,7 @@ On Febuary 22, 2021, the first version of our review paper was made available on
 
 ## Evidence Exhibits
 
-We compare several similar elements in terms of figures and text in the following figures.
+We compare several similar elements in terms of text, figures, and finally paper structures in the following figures.
 
 ### Text
 
@@ -60,4 +60,7 @@ We compare several similar elements in terms of figures and text in the followin
 - Identical/similar content in figures.
 ![figure-6](figures/figure-6.png)
 
+### Structures
 
+- An overall comparison between paper organization and structures. Individual unique part/sections are in grey color.
+![figure-6](figures/structure.png)
