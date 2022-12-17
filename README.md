@@ -14,9 +14,9 @@ On Febuary 22, 2021, the first version of our review paper was made available on
 
 We compare several similar elements in terms of text, figures, and finally paper structures in the following figures.
 
-Note that our below equations (3)--(7), (23), (24), (27), (28), and our equations corresponding to their (12), (15), (20) **are our original formulations** and are not from any specific method paper.
-
 ### Text
+
+Note that our equations (3)--(7), (23), (24), (27), (28) below, and our equations corresponding to their (12), (15), (20) **are our original formulations** and are not from any specific method paper.
 
 - Identical statements between the captions. 
 ![caption-fig2](figures/caption-fig2.png)
