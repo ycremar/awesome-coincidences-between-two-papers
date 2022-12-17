@@ -67,4 +67,4 @@ My co-author and I spent hours working on multiple versions of the presentation 
 ### Structures
 
 - An overall comparison between paper organization and structures. Individual unique part/sections are in grey color.
-![figure-6](figures/structure.png)
+![structure](figures/structure-v1.png)
