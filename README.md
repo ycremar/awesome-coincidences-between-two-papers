@@ -25,13 +25,13 @@ We compare several similar elements in terms of text, figures, and finally paper
 - Identical/similar statements and formulations. To the best of our knowledge, we are the first to unify existing contrastive approaches, by identifying their connections among each other.
 ![section-3-1](figures/section-3-1.png)
 
-- Identical/similar statements and formulations. To the best of our knowledge, we are the first to use these formulations to summarize and categorize agumentations for graphs.
+- Identical/similar statements and formulations. To the best of our knowledge, we are the first to use these formulations to summarize and categorize augmentations for graphs.
 ![section-3-2-1](figures/section-3-2-1.png)
 
-- Identical/similar statements and formulations. To the best of our knowledge, we are the first to use these formulations to summarize and categorize agumentations for graphs.
+- Identical/similar statements and formulations. To the best of our knowledge, we are the first to use these formulations to summarize and categorize augmentations for graphs.
 ![section-3-2-2](figures/section-3-2-2.png)
 
-- Identical/similar statements and formulations. To the best of our knowledge, we are the first to use these formulations to summarize and categorize agumentations for graphs.
+- Identical/similar statements and formulations. To the best of our knowledge, we are the first to use these formulations to summarize and categorize augmentations for graphs.
 ![section-3-2-3](figures/section-3-2-3.png)
 
 - Identical/similar statements. To the best of our knowledge, we are the first to consider projection heads from a parameterized MI estimator perspective of view.
