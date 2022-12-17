@@ -54,6 +54,8 @@ We compare several similar elements in terms of text, figures, and finally paper
 
 ### Figures
 
+My co-author and I spent hours working on multiple versions of the presentation and layout to ensure that it was clear and precise.
+
 - Identical/similar content in figures.
 ![figure-2](figures/figure-2.png)
 
