@@ -58,7 +58,7 @@ Note that our equations (3)--(7), (23), (24), (27), (28) below, and our equation
 
 ### Figures
 
-My co-author and I spent hours working on multiple versions of the presentation and layout to ensure that it was clear and precise.
+My co-author and I spent hours working on multiple versions of the presentation and layout to ensure that it was clear and precise. The design of the figures should be non-trivial and the similarity its unlikely to be a coincidence.
 
 - Identical/similar content in figures.
 ![figure-2](figures/figure-2.png)
