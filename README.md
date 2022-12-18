@@ -63,6 +63,9 @@ My co-author and I spent hours working on multiple versions of the presentation 
 - Identical/similar content in figures.
 ![figure-2](figures/figure-2.png)
 
+- Identical/similar content in figures. This should be an equivalent evidence to the structure comparison below.
+![structure-figure](figures/structure-figure.png)
+
 - Identical/similar content in figures.
 ![figure-6](figures/figure-6.png)
 
